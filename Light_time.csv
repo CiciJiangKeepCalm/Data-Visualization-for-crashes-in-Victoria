@@ -1,0 +1,80 @@
+"","ACCIDENT_TIME","LIGHT_CONDITION","Amount"
+"1",0,"Dark No street lights",255
+"2",0,"Dark Street lights off",11
+"3",0,"Dark Street lights on",554
+"4",1,"Dark No street lights",198
+"5",1,"Dark Street lights off",5
+"6",1,"Dark Street lights on",464
+"7",2,"Dark No street lights",160
+"8",2,"Dark Street lights off",9
+"9",2,"Dark Street lights on",358
+"10",3,"Dark No street lights",156
+"11",3,"Dark Street lights off",6
+"12",3,"Dark Street lights on",332
+"13",4,"Dark No street lights",201
+"14",4,"Dark Street lights off",2
+"15",4,"Dark Street lights on",261
+"16",4,"Dusk/Dawn",14
+"17",5,"Dark No street lights",233
+"18",5,"Dark Street lights off",9
+"19",5,"Dark Street lights on",341
+"20",5,"Day",25
+"21",5,"Dusk/Dawn",250
+"22",6,"Dark No street lights",163
+"23",6,"Dark Street lights off",3
+"24",6,"Dark Street lights on",362
+"25",6,"Day",338
+"26",6,"Dusk/Dawn",885
+"27",7,"Dark No street lights",24
+"28",7,"Dark Street lights off",3
+"29",7,"Dark Street lights on",67
+"30",7,"Day",1600
+"31",7,"Dusk/Dawn",1110
+"32",8,"Dark No street lights",1
+"33",8,"Day",3839
+"34",8,"Dusk/Dawn",301
+"35",9,"Day",3486
+"36",10,"Day",3261
+"37",10,"Dusk/Dawn",1
+"38",11,"Day",3614
+"39",12,"Day",3868
+"40",12,"Dusk/Dawn",2
+"41",13,"Day",3758
+"42",14,"Dark Street lights on",1
+"43",14,"Day",3972
+"44",15,"Day",5178
+"45",15,"Dusk/Dawn",1
+"46",16,"Day",4375
+"47",16,"Dusk/Dawn",633
+"48",17,"Dark No street lights",141
+"49",17,"Dark Street lights off",7
+"50",17,"Dark Street lights on",562
+"51",17,"Day",2774
+"52",17,"Dusk/Dawn",1691
+"53",18,"Dark No street lights",335
+"54",18,"Dark Street lights off",16
+"55",18,"Dark Street lights on",1363
+"56",18,"Day",1553
+"57",18,"Dusk/Dawn",928
+"58",19,"Dark No street lights",302
+"59",19,"Dark Street lights off",18
+"60",19,"Dark Street lights on",1155
+"61",19,"Day",459
+"62",19,"Dusk/Dawn",822
+"63",20,"Dark No street lights",341
+"64",20,"Dark Street lights off",15
+"65",20,"Dark Street lights on",1084
+"66",20,"Day",65
+"67",20,"Dusk/Dawn",310
+"68",21,"Dark No street lights",421
+"69",21,"Dark Street lights off",17
+"70",21,"Dark Street lights on",1204
+"71",21,"Day",2
+"72",21,"Dusk/Dawn",30
+"73",22,"Dark No street lights",361
+"74",22,"Dark Street lights off",8
+"75",22,"Dark Street lights on",1044
+"76",22,"Dusk/Dawn",1
+"77",23,"Dark No street lights",328
+"78",23,"Dark Street lights off",10
+"79",23,"Dark Street lights on",797

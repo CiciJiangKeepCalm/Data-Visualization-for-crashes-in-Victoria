@@ -1,0 +1,46 @@
+"","ACCIDENT_TYPE","ACCIDENT_Year","Amount"
+"1","Collision with a fixed object",2014,2235
+"2","Collision with a fixed object",2015,2203
+"3","Collision with a fixed object",2016,2212
+"4","Collision with a fixed object",2017,1955
+"5","Collision with a fixed object",2018,1744
+"6","collision with some other object",2014,111
+"7","collision with some other object",2015,118
+"8","collision with some other object",2016,162
+"9","collision with some other object",2017,103
+"10","collision with some other object",2018,110
+"11","Collision with vehicle",2014,8688
+"12","Collision with vehicle",2015,8868
+"13","Collision with vehicle",2016,8809
+"14","Collision with vehicle",2017,7639
+"15","Collision with vehicle",2018,6990
+"16","Fall from or in moving vehicle",2014,75
+"17","Fall from or in moving vehicle",2015,65
+"18","Fall from or in moving vehicle",2016,65
+"19","Fall from or in moving vehicle",2017,54
+"20","Fall from or in moving vehicle",2018,56
+"21","No collision and no object struck",2014,816
+"22","No collision and no object struck",2015,788
+"23","No collision and no object struck",2016,678
+"24","No collision and no object struck",2017,501
+"25","No collision and no object struck",2018,373
+"26","Other accident",2014,12
+"27","Other accident",2015,8
+"28","Other accident",2016,16
+"29","Other accident",2017,3
+"30","Other accident",2018,10
+"31","Struck animal",2014,140
+"32","Struck animal",2015,164
+"33","Struck animal",2016,174
+"34","Struck animal",2017,84
+"35","Struck animal",2018,113
+"36","Struck Pedestrian",2014,1168
+"37","Struck Pedestrian",2015,1180
+"38","Struck Pedestrian",2016,1231
+"39","Struck Pedestrian",2017,1092
+"40","Struck Pedestrian",2018,1061
+"41","Vehicle overturned (no collision)",2014,724
+"42","Vehicle overturned (no collision)",2015,739
+"43","Vehicle overturned (no collision)",2016,695
+"44","Vehicle overturned (no collision)",2017,612
+"45","Vehicle overturned (no collision)",2018,486

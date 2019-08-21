@@ -1,0 +1,17 @@
+"","ACCIDENT_Year","SEVERITY","Amount"
+"1",2014,"Fatal accident",222
+"2",2014,"Other injury accident",9353
+"3",2014,"Serious injury accident",4394
+"4",2015,"Fatal accident",228
+"5",2015,"Non injury accident",1
+"6",2015,"Other injury accident",9864
+"7",2015,"Serious injury accident",4040
+"8",2016,"Fatal accident",275
+"9",2016,"Other injury accident",9801
+"10",2016,"Serious injury accident",3966
+"11",2017,"Fatal accident",238
+"12",2017,"Other injury accident",8401
+"13",2017,"Serious injury accident",3404
+"14",2018,"Fatal accident",190
+"15",2018,"Other injury accident",7940
+"16",2018,"Serious injury accident",2813

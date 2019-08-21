@@ -1,0 +1,119 @@
+"","LIGHT_CONDITION","ACCIDENT_TIME","Amount"
+"1","Dark No street lights",0,255
+"2","Dark No street lights",1,198
+"3","Dark No street lights",2,160
+"4","Dark No street lights",3,156
+"5","Dark No street lights",4,201
+"6","Dark No street lights",5,233
+"7","Dark No street lights",6,163
+"8","Dark No street lights",7,24
+"9","Dark No street lights",8,1
+"10","Dark No street lights",17,141
+"11","Dark No street lights",18,335
+"12","Dark No street lights",19,302
+"13","Dark No street lights",20,341
+"14","Dark No street lights",21,421
+"15","Dark No street lights",22,361
+"16","Dark No street lights",23,328
+"17","Dark Street lights off",0,11
+"18","Dark Street lights off",1,5
+"19","Dark Street lights off",2,9
+"20","Dark Street lights off",3,6
+"21","Dark Street lights off",4,2
+"22","Dark Street lights off",5,9
+"23","Dark Street lights off",6,3
+"24","Dark Street lights off",7,3
+"25","Dark Street lights off",17,7
+"26","Dark Street lights off",18,16
+"27","Dark Street lights off",19,18
+"28","Dark Street lights off",20,15
+"29","Dark Street lights off",21,17
+"30","Dark Street lights off",22,8
+"31","Dark Street lights off",23,10
+"32","Dark Street lights on",0,554
+"33","Dark Street lights on",1,464
+"34","Dark Street lights on",2,358
+"35","Dark Street lights on",3,332
+"36","Dark Street lights on",4,261
+"37","Dark Street lights on",5,341
+"38","Dark Street lights on",6,362
+"39","Dark Street lights on",7,67
+"40","Dark Street lights on",14,1
+"41","Dark Street lights on",17,562
+"42","Dark Street lights on",18,1363
+"43","Dark Street lights on",19,1155
+"44","Dark Street lights on",20,1084
+"45","Dark Street lights on",21,1204
+"46","Dark Street lights on",22,1044
+"47","Dark Street lights on",23,797
+"48","Dark Street lights unknown",0,36
+"49","Dark Street lights unknown",1,31
+"50","Dark Street lights unknown",2,21
+"51","Dark Street lights unknown",3,20
+"52","Dark Street lights unknown",4,24
+"53","Dark Street lights unknown",5,36
+"54","Dark Street lights unknown",6,31
+"55","Dark Street lights unknown",7,6
+"56","Dark Street lights unknown",17,38
+"57","Dark Street lights unknown",18,93
+"58","Dark Street lights unknown",19,63
+"59","Dark Street lights unknown",20,69
+"60","Dark Street lights unknown",21,72
+"61","Dark Street lights unknown",22,79
+"62","Dark Street lights unknown",23,45
+"63","Day",5,25
+"64","Day",6,338
+"65","Day",7,1600
+"66","Day",8,3839
+"67","Day",9,3486
+"68","Day",10,3261
+"69","Day",11,3614
+"70","Day",12,3868
+"71","Day",13,3758
+"72","Day",14,3972
+"73","Day",15,5178
+"74","Day",16,4375
+"75","Day",17,2774
+"76","Day",18,1553
+"77","Day",19,459
+"78","Day",20,65
+"79","Day",21,2
+"80","Dusk/Dawn",4,14
+"81","Dusk/Dawn",5,250
+"82","Dusk/Dawn",6,885
+"83","Dusk/Dawn",7,1110
+"84","Dusk/Dawn",8,301
+"85","Dusk/Dawn",10,1
+"86","Dusk/Dawn",12,2
+"87","Dusk/Dawn",15,1
+"88","Dusk/Dawn",16,633
+"89","Dusk/Dawn",17,1691
+"90","Dusk/Dawn",18,928
+"91","Dusk/Dawn",19,822
+"92","Dusk/Dawn",20,310
+"93","Dusk/Dawn",21,30
+"94","Dusk/Dawn",22,1
+"95","Unk.",0,15
+"96","Unk.",1,26
+"97","Unk.",2,8
+"98","Unk.",3,9
+"99","Unk.",4,9
+"100","Unk.",5,19
+"101","Unk.",6,50
+"102","Unk.",7,77
+"103","Unk.",8,109
+"104","Unk.",9,69
+"105","Unk.",10,74
+"106","Unk.",11,93
+"107","Unk.",12,111
+"108","Unk.",13,76
+"109","Unk.",14,76
+"110","Unk.",15,115
+"111","Unk.",16,149
+"112","Unk.",17,187
+"113","Unk.",18,148
+"114","Unk.",19,67
+"115","Unk.",20,39
+"116","Unk.",21,42
+"117","Unk.",22,24
+"118","Unk.",23,20

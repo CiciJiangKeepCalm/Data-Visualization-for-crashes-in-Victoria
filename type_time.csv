@@ -1,0 +1,213 @@
+"","ACCIDENT_TIME","ACCIDENT_TYPE","Amount"
+"1",0,"Collision with a fixed object",317
+"2",0,"collision with some other object",12
+"3",0,"Collision with vehicle",315
+"4",0,"Fall from or in moving vehicle",10
+"5",0,"No collision and no object struck",32
+"6",0,"Other accident",1
+"7",0,"Struck animal",13
+"8",0,"Struck Pedestrian",108
+"9",0,"Vehicle overturned (no collision)",63
+"10",1,"Collision with a fixed object",307
+"11",1,"collision with some other object",8
+"12",1,"Collision with vehicle",242
+"13",1,"Fall from or in moving vehicle",13
+"14",1,"No collision and no object struck",34
+"15",1,"Struck animal",10
+"16",1,"Struck Pedestrian",59
+"17",1,"Vehicle overturned (no collision)",51
+"18",2,"Collision with a fixed object",250
+"19",2,"collision with some other object",6
+"20",2,"Collision with vehicle",165
+"21",2,"Fall from or in moving vehicle",7
+"22",2,"No collision and no object struck",16
+"23",2,"Other accident",1
+"24",2,"Struck animal",10
+"25",2,"Struck Pedestrian",70
+"26",2,"Vehicle overturned (no collision)",31
+"27",3,"Collision with a fixed object",272
+"28",3,"collision with some other object",5
+"29",3,"Collision with vehicle",143
+"30",3,"Fall from or in moving vehicle",4
+"31",3,"No collision and no object struck",14
+"32",3,"Other accident",1
+"33",3,"Struck animal",12
+"34",3,"Struck Pedestrian",42
+"35",3,"Vehicle overturned (no collision)",30
+"36",4,"Collision with a fixed object",233
+"37",4,"collision with some other object",7
+"38",4,"Collision with vehicle",162
+"39",4,"Fall from or in moving vehicle",4
+"40",4,"No collision and no object struck",14
+"41",4,"Struck animal",24
+"42",4,"Struck Pedestrian",36
+"43",4,"Vehicle overturned (no collision)",31
+"44",5,"Collision with a fixed object",303
+"45",5,"collision with some other object",18
+"46",5,"Collision with vehicle",415
+"47",5,"Fall from or in moving vehicle",4
+"48",5,"No collision and no object struck",29
+"49",5,"Other accident",2
+"50",5,"Struck animal",40
+"51",5,"Struck Pedestrian",53
+"52",5,"Vehicle overturned (no collision)",49
+"53",6,"Collision with a fixed object",320
+"54",6,"collision with some other object",22
+"55",6,"Collision with vehicle",1164
+"56",6,"Fall from or in moving vehicle",4
+"57",6,"No collision and no object struck",63
+"58",6,"Other accident",2
+"59",6,"Struck animal",61
+"60",6,"Struck Pedestrian",127
+"61",6,"Vehicle overturned (no collision)",69
+"62",7,"Collision with a fixed object",392
+"63",7,"collision with some other object",15
+"64",7,"Collision with vehicle",2023
+"65",7,"Fall from or in moving vehicle",5
+"66",7,"No collision and no object struck",102
+"67",7,"Other accident",5
+"68",7,"Struck animal",29
+"69",7,"Struck Pedestrian",207
+"70",7,"Vehicle overturned (no collision)",109
+"71",8,"Collision with a fixed object",418
+"72",8,"collision with some other object",18
+"73",8,"Collision with vehicle",3067
+"74",8,"Fall from or in moving vehicle",5
+"75",8,"No collision and no object struck",174
+"76",8,"Other accident",2
+"77",8,"Struck animal",24
+"78",8,"Struck Pedestrian",397
+"79",8,"Vehicle overturned (no collision)",145
+"80",9,"Collision with a fixed object",430
+"81",9,"collision with some other object",28
+"82",9,"Collision with vehicle",2392
+"83",9,"Fall from or in moving vehicle",9
+"84",9,"No collision and no object struck",175
+"85",9,"Other accident",7
+"86",9,"Struck animal",18
+"87",9,"Struck Pedestrian",333
+"88",9,"Vehicle overturned (no collision)",163
+"89",10,"Collision with a fixed object",444
+"90",10,"collision with some other object",50
+"91",10,"Collision with vehicle",2043
+"92",10,"Fall from or in moving vehicle",19
+"93",10,"No collision and no object struck",228
+"94",10,"Other accident",1
+"95",10,"Struck animal",20
+"96",10,"Struck Pedestrian",318
+"97",10,"Vehicle overturned (no collision)",213
+"98",11,"Collision with a fixed object",518
+"99",11,"collision with some other object",62
+"100",11,"Collision with vehicle",2244
+"101",11,"Fall from or in moving vehicle",15
+"102",11,"No collision and no object struck",302
+"103",11,"Other accident",2
+"104",11,"Struck animal",19
+"105",11,"Struck Pedestrian",297
+"106",11,"Vehicle overturned (no collision)",248
+"107",12,"Collision with a fixed object",524
+"108",12,"collision with some other object",54
+"109",12,"Collision with vehicle",2523
+"110",12,"Fall from or in moving vehicle",21
+"111",12,"No collision and no object struck",270
+"112",12,"Other accident",4
+"113",12,"Struck animal",16
+"114",12,"Struck Pedestrian",318
+"115",12,"Vehicle overturned (no collision)",251
+"116",13,"Collision with a fixed object",546
+"117",13,"collision with some other object",41
+"118",13,"Collision with vehicle",2430
+"119",13,"Fall from or in moving vehicle",28
+"120",13,"No collision and no object struck",249
+"121",13,"Other accident",2
+"122",13,"Struck animal",26
+"123",13,"Struck Pedestrian",292
+"124",13,"Vehicle overturned (no collision)",220
+"125",14,"Collision with a fixed object",611
+"126",14,"collision with some other object",52
+"127",14,"Collision with vehicle",2538
+"128",14,"Fall from or in moving vehicle",26
+"129",14,"No collision and no object struck",262
+"130",14,"Struck animal",20
+"131",14,"Struck Pedestrian",297
+"132",14,"Vehicle overturned (no collision)",243
+"133",15,"Collision with a fixed object",671
+"134",15,"collision with some other object",38
+"135",15,"Collision with vehicle",3509
+"136",15,"Fall from or in moving vehicle",28
+"137",15,"No collision and no object struck",254
+"138",15,"Other accident",1
+"139",15,"Struck animal",20
+"140",15,"Struck Pedestrian",514
+"141",15,"Vehicle overturned (no collision)",259
+"142",16,"Collision with a fixed object",635
+"143",16,"collision with some other object",36
+"144",16,"Collision with vehicle",3527
+"145",16,"Fall from or in moving vehicle",18
+"146",16,"No collision and no object struck",229
+"147",16,"Other accident",3
+"148",16,"Struck animal",20
+"149",16,"Struck Pedestrian",422
+"150",16,"Vehicle overturned (no collision)",267
+"151",17,"Collision with a fixed object",578
+"152",17,"collision with some other object",25
+"153",17,"Collision with vehicle",3937
+"154",17,"Fall from or in moving vehicle",22
+"155",17,"No collision and no object struck",216
+"156",17,"Other accident",3
+"157",17,"Struck animal",27
+"158",17,"Struck Pedestrian",392
+"159",17,"Vehicle overturned (no collision)",200
+"160",18,"Collision with a fixed object",515
+"161",18,"collision with some other object",30
+"162",18,"Collision with vehicle",3080
+"163",18,"Fall from or in moving vehicle",18
+"164",18,"No collision and no object struck",144
+"165",18,"Other accident",2
+"166",18,"Struck animal",66
+"167",18,"Struck Pedestrian",440
+"168",18,"Vehicle overturned (no collision)",141
+"169",19,"Collision with a fixed object",449
+"170",19,"collision with some other object",33
+"171",19,"Collision with vehicle",1778
+"172",19,"Fall from or in moving vehicle",14
+"173",19,"No collision and no object struck",109
+"174",19,"Other accident",4
+"175",19,"Struck animal",43
+"176",19,"Struck Pedestrian",321
+"177",19,"Vehicle overturned (no collision)",135
+"178",20,"Collision with a fixed object",418
+"179",20,"collision with some other object",11
+"180",20,"Collision with vehicle",1054
+"181",20,"Fall from or in moving vehicle",8
+"182",20,"No collision and no object struck",79
+"183",20,"Struck animal",39
+"184",20,"Struck Pedestrian",206
+"185",20,"Vehicle overturned (no collision)",108
+"186",21,"Collision with a fixed object",375
+"187",21,"collision with some other object",16
+"188",21,"Collision with vehicle",964
+"189",21,"Fall from or in moving vehicle",11
+"190",21,"No collision and no object struck",72
+"191",21,"Other accident",1
+"192",21,"Struck animal",39
+"193",21,"Struck Pedestrian",219
+"194",21,"Vehicle overturned (no collision)",91
+"195",22,"Collision with a fixed object",416
+"196",22,"collision with some other object",6
+"197",22,"Collision with vehicle",754
+"198",22,"Fall from or in moving vehicle",13
+"199",22,"No collision and no object struck",47
+"200",22,"Other accident",4
+"201",22,"Struck animal",44
+"202",22,"Struck Pedestrian",157
+"203",22,"Vehicle overturned (no collision)",76
+"204",23,"Collision with a fixed object",407
+"205",23,"collision with some other object",11
+"206",23,"Collision with vehicle",525
+"207",23,"Fall from or in moving vehicle",9
+"208",23,"No collision and no object struck",42
+"209",23,"Other accident",1
+"210",23,"Struck animal",35
+"211",23,"Struck Pedestrian",107
+"212",23,"Vehicle overturned (no collision)",63

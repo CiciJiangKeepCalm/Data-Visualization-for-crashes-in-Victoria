@@ -1,0 +1,31 @@
+ACCIDENT_Year,LIGHT_CONDITION,Amount
+2014,Dark No street lights,671
+2014,Dark Street lights off,19
+2014,Dark Street lights on,1880
+2014,Dark Street lights unknown,143
+2014,Day,8257
+2014,Dusk/Dawn,2691
+2015,Dark No street lights,773
+2015,Dark Street lights off,35
+2015,Dark Street lights on,2133
+2015,Dark Street lights unknown,162
+2015,Day,8367
+2015,Dusk/Dawn,2356
+2016,Dark No street lights,856
+2016,Dark Street lights off,30
+2016,Dark Street lights on,2220
+2016,Dark Street lights unknown,140
+2016,Day,9604
+2016,Dusk/Dawn,765
+2017,Dark No street lights,670
+2017,Dark Street lights off,27
+2017,Dark Street lights on,1962
+2017,Dark Street lights unknown,118
+2017,Day,8367
+2017,Dusk/Dawn,602
+2018,Dark No street lights,650
+2018,Dark Street lights off,28
+2018,Dark Street lights on,1754
+2018,Dark Street lights unknown,101
+2018,Day,7572
+2018,Dusk/Dawn,565
